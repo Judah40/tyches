@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#sign:focus{
+  border-color :"#556B2F";
+  outline: none;
+}
